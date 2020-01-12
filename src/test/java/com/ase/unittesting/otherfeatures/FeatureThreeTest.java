@@ -1,4 +1,4 @@
-package com.ase.unittesting.mainfeatures;
+package com.ase.unittesting.otherfeatures;
 
 import static org.junit.Assert.*;
 
