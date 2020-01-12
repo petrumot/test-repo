@@ -1,4 +1,4 @@
-package com.ase.unittesting.mainfeatures;
+package com.ase.unittesting.features;
 
 public class FeatureTwo {
 	

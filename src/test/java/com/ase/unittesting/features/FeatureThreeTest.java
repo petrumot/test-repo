@@ -1,10 +1,10 @@
-package com.ase.unittesting.otherfeatures;
+package com.ase.unittesting.features;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.ase.unittesting.otherfeatures.FeatureThree;
+import com.ase.unittesting.features.FeatureThree;
 
 public class FeatureThreeTest {
 
